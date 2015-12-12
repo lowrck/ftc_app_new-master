@@ -30,7 +30,7 @@ public class dylansTeleOp extends OpMode {
     boolean isMacroRunning = false;
     int highzone = 1400;
     int midzone = 1000;
-    int lowzone = 799;
+    int lowzone = 800;
 
     @Override
     public void init() {
